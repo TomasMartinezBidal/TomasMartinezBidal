@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TomasMartinezBidal
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Ensemble methods
+- 🌱 I’m currently learning discrete optimization
 - 📫 How to reach me tmartinezbidal@gmail.com
 <!---
 - 💞️ I’m looking to collaborate on ...
